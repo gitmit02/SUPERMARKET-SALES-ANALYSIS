@@ -2,6 +2,8 @@
 
 A full-stack Python data analytics project that ingests, cleans, analyses, and visualises supermarket sales data across 4 Indian cities through an interactive **Streamlit** dashboard.
 
+<img width="1807" height="825" alt="image" src="https://github.com/user-attachments/assets/6f593d34-7ddb-42d5-a9bf-1fc8d157cf68" />
+
 ---
 
 ## 📂 Project Structure
